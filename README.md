@@ -1,4 +1,4 @@
-# sales-call-prep
+#Sales Call Preparation and Research
 
 **Give it a company name. Get a sourced, citation-tagged PDF brief ready for the call.**
 
