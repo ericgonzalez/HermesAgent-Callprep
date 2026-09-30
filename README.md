@@ -5,7 +5,7 @@
 
 `sales-call-prep` is a [Hermes Agent](https://hermes-agent.nousresearch.com/docs) skill that runs the ten-stage *call-prep route* end to end: it researches the account, pulls pain points from earnings calls, maps the buying committee, and renders the whole thing as a formatted PDF brief — account brief, discovery questions, a specific two-sentence opener, likely objections, competitor landscape, a five-objection battle card, and a follow-up plan.
 
-**No invented facts.** Every claim in the brief is tagged `sourced` (with a citation) or `inferred` (reasoning, labeled as such). Anything that cannot be verified becomes an explicit gap with an ask the rep can act on ("paste her last 3 posts") — never a plausible-sounding guess. The skill never bypasses logins or paywalls.
+**No invented facts.** Every claim in the brief is tagged `sourced` (with a citation) or `inferred` (reasoning, labeled as such). Anything that cannot be verified becomes an explicit gap with an ask the rep can act on ("paste her last 3 posts") — never a plausible-sounding guess. The skill never bypasses logins or paywalls. Here is the process the agent will run through, prompt by prompt automatically, saving your sales team significant research and prep time:
 
 ![The ten-stage call-prep route](skills/sales-call-prep/sales-call-prep-flowchart.png)
 
