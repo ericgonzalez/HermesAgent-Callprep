@@ -102,4 +102,5 @@ This repo is a [Hermes skill tap](https://hermes-agent.nousresearch.com/docs/use
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+Released under the MIT License, see [LICENSE](LICENSE).
+Clause Cowork users: use the Hermes version of this skill at https://github.com/ericgonzalez/Claude-Callprep
