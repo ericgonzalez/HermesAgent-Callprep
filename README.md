@@ -2,7 +2,6 @@
 
 **Give it a company name. Get a sourced, citation-tagged PDF brief ready for the call.**
 
-![Sample brief, first two pages (fictional data)](docs/preview.png)
 
 `sales-call-prep` is a [Hermes Agent](https://hermes-agent.nousresearch.com/docs) skill that runs the ten-stage *call-prep route* end to end: it researches the account, pulls pain points from earnings calls, maps the buying committee, and renders the whole thing as a formatted PDF brief — account brief, discovery questions, a specific two-sentence opener, likely objections, competitor landscape, a five-objection battle card, and a follow-up plan.
 
