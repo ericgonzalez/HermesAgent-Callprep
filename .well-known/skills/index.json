@@ -1,0 +1,15 @@
+{
+  "skills": [
+    {
+      "name": "sales-call-prep",
+      "description": "Run the ten-stage sales call-prep route on a company and produce a formatted PDF brief (account brief, earnings-call pain, contact role, discovery questions, opener, buying committee, objections, competitors, battle card, follow-up plan). Use when the user gives a company name for call prep, account research, or a battle card.",
+      "files": [
+        "SKILL.md",
+        "references/prompts.md",
+        "references/seller-profile.md",
+        "scripts/build_brief_pdf.py",
+        "assets/sample_payload.json"
+      ]
+    }
+  ]
+}
