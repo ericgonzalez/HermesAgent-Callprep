@@ -6,28 +6,13 @@
 
 `sales-call-prep` is a [Hermes Agent](https://hermes-agent.nousresearch.com/docs) skill that runs the ten-stage *call-prep route* end to end: it researches the account, pulls pain points from earnings calls, maps the buying committee, and renders the whole thing as a formatted PDF brief — account brief, discovery questions, a specific two-sentence opener, likely objections, competitor landscape, a five-objection battle card, and a follow-up plan.
 
-**No invented facts.** Every claim in the brief is tagged `sourced` (with a citation) or `inferred` (reasoning, labeled as such). Anything that cannot be verified becomes an explicit gap with an ask the rep can act on ("paste her last 3 posts") — never a plausible-sounding guess. The skill never bypasses logins or paywalls. Here is the process the agent will run through, prompt by prompt automatically, saving your sales team significant research and prep time:
+**No invented facts.** Every claim in the brief is tagged `sourced` (with a citation) or `inferred` (reasoning, labeled as such). Anything that cannot be verified becomes an explicit gap with an ask the rep can act on ("paste her last 3 posts") — never a plausible-sounding guess. The skill never bypasses logins or paywalls. Here is the process the agent will run through, prompt by prompt automatically, saving your sales team significant research and prep time.
+
+The Route:
 
 ![The ten-stage call-prep route](skills/sales-call-prep/sales-call-prep-flowchart.png)
 
-## The route
-
-| # | Stage | What you get |
-|---|-------|--------------|
-| 01 | Account brief | One-pager: business, customers, priorities, dated recent changes |
-| 02 | Pain from earnings calls | 3 challenges with short verbatim quotes (speaker + call) and where your solution fits |
-| 03 | Contact's role | What the title cares about *now*, with public evidence |
-| 04 | Discovery questions | 5 open questions + follow-ups, each traced to a finding |
-| 05 | A specific opener | Two sentences anchored on one real, dated, sourced fact |
-| 06 | Buying committee | 4–6 roles with how each judges you; names only when publicly verified |
-| 07 | Likely objections | Top 3 with responses and their basis |
-| 08 | Competitor landscape | 2–3 competitors (status quo counts), pricing, and gaps |
-| 09 | Battle card | 5 objections: real concern, response, proof point, ask-back |
-| 10 | Follow-up plan | One draft email (<120 words) + 3 value-adding touches tied to findings |
-
 Plus a **call-day snapshot** written last and shown first: the 3–5 takeaways most likely to change how the call goes.
-
-[Sample output — fictional company, 8 pages](skills/sales-call-prep/sample-call-prep-brief.pdf)
 
 ## Install
 
