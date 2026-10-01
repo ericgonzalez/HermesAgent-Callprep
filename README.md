@@ -96,12 +96,9 @@ The reply highlights the three findings most likely to change the call, the gaps
 
 This repo is a [Hermes skill tap](https://hermes-agent.nousresearch.com/docs/user-guide/features/skills#publishing-a-custom-skill-tap): add it with `hermes skills tap add ericgonzalez/HermesAgent-Callprep` and install any skill under `skills/` — more skills can be added to this repo over time.
 
-## Design principles
+## Design Principles
 
-- **Stop rule:** gated or missing source → recorded in `gaps[]` with a concrete ask. Never guessed, never paywalled.
-- **Sourced vs inferred:** every claim carries a tag; inference is never dressed up as fact.
-- **Quotes are short and exact:** at most two sentences verbatim, with speaker, call, and link — or they're dropped and tagged.
-- **No invented proof points:** battle-card proof points come only from the seller profile or cited sources.
+Never invent names, quotes, prices, metrics or customer results. No invented proof points, everything attributed. Proof points come only from your own profile or cited sources. Competitor pricing appears only when public. Quotes are short and attributed. gated or missing source → recorded in `gaps[]` with a concrete ask.  Quotes are short and exact:** at most two sentences verbatim, with speaker, call, and link — or they're dropped and tagged, because let's face it, your reps are busy.
 
 ## License
 
