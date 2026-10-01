@@ -26,7 +26,7 @@ A multi-page PDF with a call-day snapshot on page one, then all ten stages:
 The last page lists every gap (anything gated, missing or unverifiable) with exactly what to paste
 so the stage can be re-run. Each claim is tagged SOURCED or INFERRED and cites numbered sources.
 
-The Route:
+## The Route:
 
 ![The ten-stage call-prep route](skills/sales-call-prep/sales-call-prep-flowchart.png)
 
