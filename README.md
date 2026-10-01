@@ -105,4 +105,4 @@ Never invent names, quotes, prices, metrics or customer results. No invented pro
 
 Released under the MIT License, see [LICENSE](LICENSE).
 
-Claude Cowork users: use the Hermes version of this skill at https://github.com/ericgonzalez/Claude-Callprep
+Claude Cowork users: use the Claude version of this skill at https://github.com/ericgonzalez/Claude-Callprep
