@@ -49,6 +49,7 @@ git clone https://github.com/ericgonzalez/HermesAgent-Callprep /tmp/callprep
 cp -R /tmp/callprep/skills/sales-call-prep ~/.hermes/skills/
 pip install reportlab
 ```
+From then on, anytime your reps need research, have the rep start a new chat and say "Prep me for a call with Acme Corp".
 
 **Requirements:** Python 3 and `reportlab` (used only to render the PDF). No network calls from the script itself.
 
