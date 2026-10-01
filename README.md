@@ -8,6 +8,24 @@
 
 **No invented facts.** Every claim in the brief is tagged `sourced` (with a citation) or `inferred` (reasoning, labeled as such). Anything that cannot be verified becomes an explicit gap with an ask the rep can act on ("paste her last 3 posts") — never a plausible-sounding guess. The skill never bypasses logins or paywalls. Here is the process the agent will run through, prompt by prompt automatically, saving your sales team significant research and prep time.
 
+## What you get
+
+A multi-page PDF with a call-day snapshot on page one, then all ten stages:
+
+1. One-page account brief
+2. Pain points from earnings calls, with short exact quotes
+3. Your contact's role
+4. Five open discovery questions with follow-ups
+5. A two-sentence opener anchored on something real and recent
+6. Buying committee
+7. Top three likely objections
+8. Competitor landscape
+9. A five-objection battle card (real concern, response, proof point, question back)
+10. A follow-up email and three value-adding touches
+
+The last page lists every gap (anything gated, missing or unverifiable) with exactly what to paste
+so the stage can be re-run. Each claim is tagged SOURCED or INFERRED and cites numbered sources.
+
 The Route:
 
 ![The ten-stage call-prep route](skills/sales-call-prep/sales-call-prep-flowchart.png)
