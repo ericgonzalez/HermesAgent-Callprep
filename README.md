@@ -98,7 +98,7 @@ This repo is a [Hermes skill tap](https://hermes-agent.nousresearch.com/docs/use
 
 ## Design Principles
 
-Never invent names, quotes, prices, metrics or customer results. No invented proof points, everything attributed. Proof points come only from your own profile or cited sources. Competitor pricing appears only when public. Quotes are short and attributed. gated or missing source → recorded in `gaps[]` with a concrete ask.  Quotes are short and exact:** at most two sentences verbatim, with speaker, call, and link — or they're dropped and tagged, because let's face it, your reps are busy.
+Never invent names, quotes, prices, metrics or customer results. No invented proof points, everything attributed. Proof points come only from your own profile or cited sources. Competitor pricing appears only when public. Quotes are short and attributed. gated or missing source → recorded in `gaps[]` with a concrete ask.  Quotes are short and exact, with at most two sentences verbatim, with speaker, call, and link — or they're dropped and tagged, because let's face it, your reps are busy.
 
 ## License
 
